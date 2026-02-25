@@ -1,0 +1,6 @@
+,Movies_names,Movie_rating,Movie_cast,prime_ott,hotstar_ott,Language,year
+0,Kantara,8.0,"['Rishab,actress']",1,0,kannada,2023
+1,Bahubali,9.0,"['prabas,anushka']",1,1,telugu,2018
+2,Titanic,,"['ketevinslate,actor']",0,1,english,2002
+3,A,7.4,"['upendra,actress']",0,1,kannada,2003
+4,Manjumaliboys,8.7,"['Subhash,actor']",1,0,malyalam,2024
